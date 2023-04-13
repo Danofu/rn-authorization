@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "android": { "adaptiveIcon": { "backgroundColor": "#FFFFFF", "foregroundImage": "./assets/adaptive-icon.png" } },
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
+    "ios": { "supportsTablet": true },
+    "name": "Authorization",
+    "orientation": "portrait",
+    "slug": "Authorization",
+    "splash": { "backgroundColor": "#ffffff", "image": "./assets/splash.png", "resizeMode": "contain" },
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "version": "1.0.0",
+    "web": { "favicon": "./assets/favicon.png" }
+  }
+}
