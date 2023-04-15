@@ -6,7 +6,7 @@ module.exports = (api) => {
         'module-resolver',
         {
           extensions: ['.android.js', '.android.jsx', '.ios.js', '.ios.jsx', '.js', '.jsx'],
-          root: ['assets', 'components', 'constants', 'screens'],
+          root: ['assets', 'components', 'constants', 'screens', 'util'],
         },
       ],
     ],

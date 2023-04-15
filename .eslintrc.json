@@ -22,7 +22,7 @@
     "import/resolver": {
       "node": {
         "extensions": [".android.js", ".android.jsx", ".ios.js", ".ios.jsx", ".js", ".jsx"],
-        "paths": ["assets", "components", "constants", "screens"]
+        "paths": ["assets", "components", "constants", "screens", "util"]
       }
     }
   }

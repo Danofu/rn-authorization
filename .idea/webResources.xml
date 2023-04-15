@@ -9,6 +9,7 @@
             <path value="file://$PROJECT_DIR$/constants" />
             <path value="file://$PROJECT_DIR$/screens" />
             <path value="file://$PROJECT_DIR$/assets" />
+            <path value="file://$PROJECT_DIR$/util" />
           </resourceRoots>
         </entryData>
       </entry>
