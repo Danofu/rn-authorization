@@ -18,9 +18,8 @@ function LoginScreen() {
       authenticate(token);
     } catch {
       Alert.alert('Authentication failed', 'Could not log you in. Please check your credentials.');
+      setIsAuthenticating(false);
     }
-
-    setIsAuthenticating(false);
   };
 
   if (isAuthenticating) {
