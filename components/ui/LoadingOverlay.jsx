@@ -1,11 +1,13 @@
 import React from 'react';
 import { ActivityIndicator, StyleSheet, Text, View } from 'react-native';
 
+import { Colors } from 'styles';
+
 function LoadingOverlay({ message }) {
   return (
     <View style={styles.rootContainer}>
       <Text style={styles.message}>{message}</Text>
-      <ActivityIndicator size="large" />
+      <ActivityIndicator color={Colors.primary500} size="large" />
     </View>
   );
 }

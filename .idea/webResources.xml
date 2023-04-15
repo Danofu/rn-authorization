@@ -10,6 +10,7 @@
             <path value="file://$PROJECT_DIR$/screens" />
             <path value="file://$PROJECT_DIR$/assets" />
             <path value="file://$PROJECT_DIR$/util" />
+            <path value="file://$PROJECT_DIR$/store" />
           </resourceRoots>
         </entryData>
       </entry>
